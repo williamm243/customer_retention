@@ -6,7 +6,9 @@ This project uses machine learning algorithms to build a model that can accurate
 
 The stakeholder for this project is the company itself that aims to reduce churning and increase profits.
 using the dataset of churning of customers we aim to buld the best possible classification model to decrease losses through loss of customers.
-Data is in csv format it contains 3333 unique rows 
+Data is in csv format
+it contains 3333 unique rows 
+![title](https://github.com/williamm243/customer_retention/assets/124572173/48abfb75-fa2d-4cb4-bf61-dd1143b82eb4)
 
 # Modeling
 created different machine learning classification model to classify the probability of churn.
